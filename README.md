@@ -70,3 +70,7 @@ func main() {
 }
 
 ```
+
+## Twitter Academic Research API
+
+APIs which is only available via Academic Research product track are not implemented. Including [Twitter Full-archive search](`https://developer.twitter.com/en/docs/twitter-api/tweets/search/introduction`)
