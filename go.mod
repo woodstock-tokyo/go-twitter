@@ -1,3 +1,3 @@
 module github.com/woodstock-tokyo/go-twitter
 
-go 1.15
+go 1.19

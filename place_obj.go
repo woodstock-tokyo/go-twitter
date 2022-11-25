@@ -44,7 +44,7 @@ type PlaceObj struct {
 
 // PlaceGeoObj contains place details
 type PlaceGeoObj struct {
-	Type       string                 `json:"type"`
-	BBox       []float64              `json:"bbox"`
-	Properties map[string]interface{} `json:"properties"`
+	Type       string         `json:"type"`
+	BBox       []float64      `json:"bbox"`
+	Properties map[string]any `json:"properties"`
 }
